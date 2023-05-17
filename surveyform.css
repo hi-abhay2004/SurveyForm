@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(230, 240, 91);
+}
+form{
+    border: 2px black solid;
+}
+h1,p{
+    position: flex;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.data{
+    background-color: rgb(168, 190, 41);
+    padding: 0.5cm;
+    position: flex;
+    text-align: center;
+    border: 2px solid black;
+    margin: 5px;
+
+}
+.role{
+    background-color: rgb(27, 204, 71);
+    padding: 0.5cm;
+    position: flex;
+    text-align: center;
+    border:2px solid rgb(2, 2, 2);
+    margin: 5px;
+   
+}
+label,input{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16;
+}
+.radio{
+    background-color: rgb(187, 218, 50);
+    padding: 0.5cm;
+    position: flex;
+    text-align: center;
+    border:2px solid rgb(2, 2, 2);
+    margin: 5px;
+
+}
+.check{
+    background-color: rgb(27, 204, 71);
+    padding: 0.5cm;
+    position: flex;
+    text-align: center;
+    border:2px solid rgb(2, 2, 2);
+    margin: 5px;
+}
+.textarea{
+    background-color: rgb(27, 204, 71);
+    padding: 0.5cm;
+    position: flex;
+    text-align: center;
+    border:2px solid rgb(2, 2, 2);
+    margin: 5px;
+   
+}
+ 
